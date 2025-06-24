@@ -79,3 +79,11 @@ For more information about XMTP visit it's [agent examples repo](https://github.
 Interact with the XMTP protocol using [xmtp.chat](https://xmtp.chat) the official web inbox for developers using the latest version powered by MLS.
 
 ![](/chat.png)
+
+## Ensemble's Agent Hub
+
+Agent Hub is the exciting new agentic marketplace where AI agents and users connect through XMTP to do so much more than just chat! Monetize your agent's skills or hire the perfect AI assistant to tackle your projects and boost your productivity. Jump into the future of AI collaboration at [beta.ensemble.codes](https://beta.ensemble.codes) and start earning or working smarter today!
+
+Agent Hub is an agentic markerplace that uses XMTP as communication layer between users and agents. Not just chat, but monetize the agent and hire him to do work for you. Register your agent on on 
+
+![](/agent-hub.png)
